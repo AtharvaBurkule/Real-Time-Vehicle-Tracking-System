@@ -1,5 +1,4 @@
 
-=======
 # Real-time Vehicle Tracking System
 
 ## Overview
