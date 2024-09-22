@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Real-Time-Vehicle-Tracking-System
+
 =======
 # Real-time Vehicle Tracking System
 
@@ -72,4 +71,3 @@ The Real-time Vehicle Tracking System is an Arduino-based project designed to mo
 
 
 
->>>>>>> cde696d (Initial commit)
